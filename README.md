@@ -5,7 +5,6 @@ A modern, animated portfolio built with Next.js, React, Three.js, Framer Motion,
 ## Features
 
 - Animated hero and section transitions
-- Interactive 3D model using Three.js
 - Responsive design for all devices
 - Project cards with hover animations
 - Contact form and social media links
